@@ -15,6 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Overview
+This is a solution to the QR Code Component challenge on Frontend Mentor. The goal was to build a simple and responsive QR code card using HTML and CSS. It helped me practice working with layout techniques like Flexbox and improve my understanding of spacing, typography, and responsiveness in a small project.
+
 
 ### Screenshot
 
@@ -23,71 +25,46 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/Lit-97/qrcodefrontendmentor)
+- Live Site URL: [Live Site](https://lit-97.github.io/qrcodefrontendmentor/)
+
 
 ## My process
+I started by setting up the basic HTML structure with a `main` container, an `img` for the QR code, and text elements using `h1` and `p`. After that, I styled the layout using CSS Flexbox to center everything in the middle of the screen.
+
+I added padding, a box shadow, and border-radius to create a card-like appearance. Then, I adjusted the font styles using a Google Font (Outfit) and used `rem` units for scalable sizing. I finished by adding responsiveness for smaller screens using a simple media query.
+
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- Semantic HTML5
+- CSS Flexbox
+- Mobile-first design
+- `rem` units for responsive sizing
+- Google Fonts (Outfit)
+- Vanilla CSS (no frameworks)
+- 
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+- How to structure a simple HTML layout using semantic tags like `<main>`, `<h1>`, and `<p>`.
+- How to center content vertically and horizontally using Flexbox.
+- The difference between `px` and `rem`, and why `rem` is better for scalable designs.
+- How to import and apply a Google Font (Outfit) in a project.
+- How `max-width` helps keep layouts looking clean on larger screens.
+- The importance of resetting default browser styles with `margin: 0` on `body`.
 
-To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [MDN Web Docs](https://developer.mozilla.org/) - My go-to reference for HTML and CSS. I used it to better understand Flexbox, CSS units like `rem`, and general styling practices.
+- [MDN Flexbox Guide](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) - Helped me understand how Flexbox works and how to center elements using it.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Website - [Lit](https://lit-97.github.io/portfolio/)
+- Frontend Mentor - [Lit-97](https://www.frontendmentor.io/profile/Lit-97)
+- GitHub  - [Lit-97](https://github.com/Lit-97)
