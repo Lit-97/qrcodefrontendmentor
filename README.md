@@ -64,6 +64,6 @@ I added padding, a box shadow, and border-radius to create a card-like appearanc
 
 ## Author
 
-- Website - [Lit](https://lit-97.github.io/portfolio/)
-- Frontend Mentor - [Lit-97](https://www.frontendmentor.io/profile/Lit-97)
-- GitHub  - [Lit-97](https://github.com/Lit-97)
+- Website - [My Portfolio](https://lit-97.github.io/portfolio/)
+- Frontend Mentor - [@Lit-97](https://www.frontendmentor.io/profile/Lit-97)
+- GitHub  - [@Lit-97](https://github.com/Lit-97)
