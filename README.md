@@ -43,7 +43,6 @@ I added padding, a box shadow, and border-radius to create a card-like appearanc
 - `rem` units for responsive sizing
 - Google Fonts (Outfit)
 - Vanilla CSS (no frameworks)
-- 
 
 ### What I learned
 
